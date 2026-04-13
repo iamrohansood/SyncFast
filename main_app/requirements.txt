@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+sqlalchemy
+confluent_kafka
+pydantic[email]
+python-dotenv
