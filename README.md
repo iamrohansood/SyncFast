@@ -38,7 +38,7 @@ npm install -g localtunnel
 
 **2. Clone this project**
 ```
-git clone git@github.com:Minal-singh/SyncFast.git
+git clone git@github.com:iamrohansood/SyncFast.git
 ```
 
 Then, Enter the project
